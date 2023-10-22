@@ -64,7 +64,7 @@
 				/>
 			</div>
 			<div class="input-label-wrapper">
-				<Label for="desc">Description:</Label>
+				<Label for="desc">Brief:</Label>
 				<Input
 					type="text"
 					name="desc"
@@ -100,6 +100,6 @@
 <style>
 	.input-label-wrapper {
 		@apply grid grid-rows-1 items-center my-4;
-		grid-template-columns: 0.2fr 0.8fr;
+		grid-template-columns: 0.3fr 0.7fr;
 	}
 </style>
