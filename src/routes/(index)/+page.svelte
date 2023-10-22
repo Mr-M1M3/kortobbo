@@ -8,7 +8,7 @@
 </script>
 
 <main class="p-2">
-	<Tabs.Root value="done">
+	<Tabs.Root value="todo">
 		<Tabs.List class="grid w-full grid-cols-2 grid-rows-1 h-12">
 			<Tabs.Trigger class="h-full" value="todo">Todo</Tabs.Trigger>
 			<Tabs.Trigger class="h-full" value="done">Done</Tabs.Trigger>
